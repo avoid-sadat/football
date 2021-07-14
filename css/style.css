@@ -191,6 +191,9 @@ footer{
      .top-banner, .player{
          flex-direction: column;
      }
+     .gallery, .info{
+        margin-right:90px;
+    }
      
  }
 
@@ -206,6 +209,10 @@ footer{
     .extra{
        flex-direction: column;
    }
+   .player-b, .bonus-player, .detail{
+    margin-left:60px;
+    margin-top:10px
+}
    
 }
 
